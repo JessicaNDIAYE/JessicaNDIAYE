@@ -63,21 +63,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JessicaNDIAYE&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNDIAYE&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JessicaNDIAYE&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🌸 Contribution Garden
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JessicaNDIAYE/JessicaNDIAYE/output/github-contribution-grid-snake.svg" alt="🌸 Contribution Garden" />
+  <img src="https://raw.githubusercontent.com/JessicaNDIAYE/JessicaNDIAYE/main/dist/contribution-garden.svg" alt="🌸 Flower Contribution Garden" />
 </p>
